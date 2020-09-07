@@ -10,4 +10,4 @@ Import it with
 import _ "github.com/mtibben/androiddnsfix"
 ```
 
-Any binary built with GOOS=android will have the fix applied
+Any binary built with `go build tags='androiddnsfix'` will have the fix applied

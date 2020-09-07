@@ -1,3 +1,5 @@
+// +build androiddnsfix
+
 package androiddnsfix
 
 import (
